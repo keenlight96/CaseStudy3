@@ -1,2 +1,6 @@
-package com.example.socialmedia.servlet;public class RegisterServlet {
+package com.example.socialmedia.servlet;
+
+import javax.servlet.http.HttpServlet;
+
+public class RegisterServlet extends HttpServlet {
 }
